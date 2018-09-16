@@ -1,0 +1,44 @@
+_repo: Letters-of-Felix-Mendelssohn-to-Ignaz-and-Charlotte-Moscheles_51750
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Moscheles, Felix
+    birthdate: 1833
+    deathdate: 1917
+    gutenberg_agent_id: '5107'
+    url: http://www.gutenberg.org/2009/agents/5107
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Felix_Moscheles
+    - http://en.wikipedia.org/wiki/Felix_Moscheles
+creator:
+  author:
+    agent_name: Mendelssohn-Bartholdy, Felix
+    aliases:
+    - Mendelssohn-Bartholdy, Jakob Ludwig Felix
+    - Mendelssohn, Felix
+    - Mendelssohn-Bartholdy, F. (Felix)
+    - Mendelssohn, F. (Felix)
+    - Mendelssohn-Bartholdy, Jacob Ludwig Felix
+    birthdate: 1809
+    deathdate: 1847
+    gutenberg_agent_id: '8145'
+    url: http://www.gutenberg.org/2009/agents/8145
+    wikipedia: http://en.wikipedia.org/wiki/Felix_Mendelssohn
+description: ''
+gutenberg_issued: '2016-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51750'
+  lccn: 03016296
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mendelssohn-Bartholdy, Felix, 1809-1847'
+- !lcsh 'Moscheles, Charlotte, 1805-1889'
+- !lcc 'ML'
+- !lcsh 'Moscheles, Ignaz, 1794-1870'
+- GITenberg
+title: Letters of Felix Mendelssohn to Ignaz and Charlotte Moscheles
+url: http://www.gutenberg.org/ebooks/51750
