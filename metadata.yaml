@@ -1,5 +1,5 @@
 _repo: Letters-of-Felix-Mendelssohn-to-Ignaz-and-Charlotte-Moscheles_51750
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Moscheles, Felix
@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - http://de.wikipedia.org/wiki/Felix_Moscheles
     - http://en.wikipedia.org/wiki/Felix_Moscheles
+covers:
+- cover_type: archival
+  image_path: 51750-h/images/cover.jpg
 creator:
   author:
     agent_name: Mendelssohn-Bartholdy, Felix
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8145
     wikipedia: http://en.wikipedia.org/wiki/Felix_Mendelssohn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51750#Letters-of-Felix-Mendelssohn-to-Ignaz-and-Charlotte-Moscheles
 gutenberg_issued: '2016-04-13'
 gutenberg_type: Text
 identifiers:
